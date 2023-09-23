@@ -24,6 +24,7 @@ let
     Fechas_completas = List.Dates(fecha_min, dias, #duration(1, 0, 0, 0))
 in
     dias
+```
 Replace "Venta" with the actual name of your table where you have the date column.
 
 Click "Done" to apply the changes.
