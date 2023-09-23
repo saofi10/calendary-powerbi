@@ -25,6 +25,8 @@ let
 in
     dias
 ```
+
+
 Replace "Venta" with the actual name of your table where you have the date column.
 
 Click "Done" to apply the changes.
